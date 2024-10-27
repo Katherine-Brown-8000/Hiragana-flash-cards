@@ -1,4 +1,4 @@
 # Hiragana_flash_cards
-./hiragan
+./hiragana.png
 ![Alt text for image](./path-to-hiragana/hiragana.png)
 
